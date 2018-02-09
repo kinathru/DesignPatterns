@@ -1,0 +1,11 @@
+ Mediator pattern
+ ----------------------------------------------------
+
+ Read here ---> https://dzone.com/articles/design-patterns-mediator
+
+ Used to handle complex communications between related objects, helping with decoupling of those objects.
+
+ An airport control tower is an excellent example of the mediator pattern.
+ The tower looks after who can take off and land - all communications are done from the airplane to control tower,
+ rather than having plane-to-plane communication.
+ This idea of a central controller is one of the key aspects to the mediator pattern.
